@@ -1,7 +1,7 @@
 # Bikes Sales Analysis
 
 
-**Overview** 🌟
+**Overview:** 🌟
 
 This project conducts a comprehensive analysis of bike sales data, focusing on key metrics such as customer demographics, purchasing trends, and product performance. By leveraging Exploratory Data Analysis (EDA), the project uncovers valuable insights into customer behavior, sales patterns, and factors driving growth in the bike industry. Through detailed visualizations and correlation analysis, it provides actionable recommendations to improve sales strategies, target the right customer segments, and optimize product offerings. The findings highlight key opportunities for market expansion and customer engagement.
 
